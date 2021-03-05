@@ -1,0 +1,5 @@
+venv
+.idea
+cmsproject/cmsproject/__pycache__/
+cmsproject/cmsapp/__pycache__/
+cmsproject/cmsapp/migrations/__pycache__/
